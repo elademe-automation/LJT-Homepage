@@ -28,20 +28,20 @@ Research Experience
 
 Publications
 ======
-(* denotes first author)
+(&#42; denotes first author)
 
 **2025**
 
 1. *SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond*. arXiv, 2025.  
-**Junteng Liu\***, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. (Code available on GitHub)
+**Junteng Liu**&#42;, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. (Code available on GitHub)
 
 2. *On the Perception Bottleneck of VLMs for Chart Understanding*. arXiv, 2025.  
-**Junteng Liu\***, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. ([Code](https://github.com/Vicent0205/Vision4Chart))
+**Junteng Liu**&#42;, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. ([Code](https://github.com/Vicent0205/Vision4Chart))
 
 **2024**
 
 3. *On the Universal Truthfulness Hyperplane Inside LLMs*. EMNLP 2024.  
-**Junteng Liu\***, Shiqi Chen, Yu Cheng, Junxian He. ([Code](https://github.com/Vicent0205/Universal_Truthfulness_Hyperplane))
+**Junteng Liu**&#42;, Shiqi Chen, Yu Cheng, Junxian He. ([Code](https://github.com/Vicent0205/Universal_Truthfulness_Hyperplane))
 
 4. *In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation*. ICML 2024.  
 Shiqi Chen, Miao Xiong, **Junteng Liu**, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He.
