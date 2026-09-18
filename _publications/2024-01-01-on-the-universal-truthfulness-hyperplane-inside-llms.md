@@ -9,3 +9,5 @@ venue: 'EMNLP 2024'
 paperurl: 'https://github.com/hkust-nlp/Universal_Truthfulness_Hyperplane'
 citation: 'Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He (2024). &quot;On the Universal Truthfulness Hyperplane Inside LLMs.&quot; <i>EMNLP 2024</i>.'
 ---
+
+A first-author work studying the universal truthfulness hyperplane inside LLMs. Code: [https://github.com/hkust-nlp/Universal_Truthfulness_Hyperplane](https://github.com/hkust-nlp/Universal_Truthfulness_Hyperplane)
