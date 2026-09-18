@@ -44,6 +44,9 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
+        with:
+          # Automatically generate or update the Pages environment if it does not exist yet
+          enablement: true
 
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
